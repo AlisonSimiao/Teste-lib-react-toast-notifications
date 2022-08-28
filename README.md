@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: teste da biblioteca react-toast-notifications</h1>
+<h1 align="center">:file_cabinet: Teste da biblioteca react-toast-notifications</h1>
 
 ## :memo: Descrição
 
